@@ -1,2 +1,2 @@
-# instalação rodar comando "npm install" no terminal
-# porta local 3000
+instalação rodar comando "npm install" no terminal
+porta local 3000
